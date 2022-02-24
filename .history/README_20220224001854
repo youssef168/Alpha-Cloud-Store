@@ -1,0 +1,11 @@
+State Management:
+    -Folder Reducers:
+        to move folder
+        to create folder
+        to create folder view
+        to search in folder
+    -Folder Functions/Selectors:
+        to get our current folder
+        to get history
+        to make search and get search data
+        to controll our Folder View
